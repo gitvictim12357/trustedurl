@@ -28,7 +28,7 @@ https://wikipedia.trustedurl.org
 
 https://fakewikipedia.trustedurl.org
 
-If you'd like to suggest or submit a domain to the whitelist, just email integritysoft@protonmail.org, send a PM or submit a pull request.
+If you'd like to suggest or submit a domain to the whitelist, just email integritysoft@protonmail.com, send a PM or submit a pull request.
 
 ## Domains currently supported
 
