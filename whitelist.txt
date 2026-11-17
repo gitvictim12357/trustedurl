@@ -1,0 +1,72 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+antixlinux.com.trustedurl.org -> https://antixlinux.com/
+antixlinux.trustedurl.org -> https://antixlinux.com/
+basicswapdex.com.trustedurl.org -> https://basicswapdex.com/
+basicswapdex.trustedurl.org -> https://basicswapdex.com/
+bisq.network.trustedurl.org -> https://bisq.network/
+bisq.trustedurl.org -> https://bisq.network/
+bitcoin.org.trustedurl.org -> https://bitcoin.org
+bitcoin.trustedurl.org -> https://bitcoin.org
+cakewallet.com.trustedurl.org -> https://cakewallet.com/
+cakewallet.trustedurl.org -> https://cakewallet.com/
+dash.org.trustedurl.org -> https://www.dash.org
+dash.trustedurl.org -> https://www.dash.org
+devuan.org.trustedurl.org -> https://www.devuan.org
+devuan.trustedurl.org -> https://www.devuan.org
+electrum.org.trustedurl.org -> https://electrum.org/
+electrum.trustedurl.org -> https://electrum.org/
+freenet.org.trustedurl.org -> https://freenet.org
+freenet.trustedurl.org -> https://freenet.org
+fsf.org.trustedurl.org -> https://www.fsf.org/
+fsf.trustedurl.org -> https://www.fsf.org/
+getmonero.org.trustedurl.org -> https://www.getmonero.org
+getmonero.trustedurl.org -> https://www.getmonero.org/
+gnu.org.trustedurl.org -> https://www.gnu.org/
+gnu.trustedurl.org -> https://www.gnu.org/
+hyphanet.org.trustedurl.org -> https://www.hyphanet.org/
+hyphanet.trustedurl.org -> https://www.hyphanet.org/
+i2p.net.trustedurl.org -> https://i2p.net/en/
+i2p.trustedurl.org -> https://i2p.net/en/
+librewolf.net.trustedurl.org -> https://librewolf.net/
+librewolf.trustedurl.org -> https://librewolf.net/
+mysteriumdark.com.trustedurl.org -> https://www.mysteriumdark.com/
+mysteriumdark.trustedurl.org -> https://www.mysteriumdark.com/
+mysteriumvpn.com.trustedurl.org -> https://www.mysteriumvpn.com
+mysteriumvpn.trustedurl.org -> https://www.mysteriumvpn.com
+openbsd.org.trustedurl.org -> https://www.openbsd.org/
+openbsd.trustedurl.org -> https://www.openbsd.org/
+redirect.trustedurl.org -> http://wikipedia.org
+sageswap.io.trustedurl.org -> https://sageswap.io
+sageswap.trustedurl.org -> https://sageswap.io
+simpleswap.io.trustedurl.org -> https://simpleswap.io
+simpleswap.trustedurl.org -> https://simpleswap.io
+tails.net.trustedurl.org -> https://tails.net
+tails.trustedurl.org -> https://tails.net
+test.trustedurl.org -> http://this.redirects.to.nowhere.but.random.text.777
+torproject.org.trustedurl.org -> https://www.torproject.org
+torproject.trustedurl.org -> https://www.torproject.org
+trocador.app.trustedurl.org -> https://trocador.app
+trocador.trustedurl.org -> https://trocador.app
+wasabiwallet.io.trustedurl.org -> https://wasabiwallet.io
+wasabiwallet.trustedurl.org -> https://wasabiwallet.io
+wikipedia.org.trustedurl.org -> http://wikipedia.org
+wikipedia.trustedurl.org -> http://wikipedia.org
+www.dash.org.trustedurl.org -> https://www.dash.org
+www.devuan.org.trustedurl.org -> https://www.devuan.org
+www.fsf.org.trustedurl.org -> https://www.fsf.org/
+www.getmonero.org.trustedurl.org -> https://www.getmonero.org/
+www.gnu.org.trustedurl.org -> https://www.gnu.org/
+www.hyphanet.org.trustedurl.org -> https://www.hyphanet.org/
+www.mysteriumvpn.com.trustedurl.org -> https://www.mysteriumvpn.com
+www.openbsd.org.trustedurl.org -> https://www.openbsd.org/
+www.torproject.org.trustedurl.org ->https://www.torproject.org
+
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQhnkatbPfblhM29+VL/at1nDlZGgUCavvKswAKCRBL/at1nDlZ
+GjiHAPoCX1Fwg0duUJXBFUZz8ezQe5+sjbf+qtHtagRJit66PwD/VjLqWKc5AF7a
+UGiEDTJaNEKfX8i7cH+L+G95KDzYNAM=
+=0gS+
+-----END PGP SIGNATURE-----
