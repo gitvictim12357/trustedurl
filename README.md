@@ -28,6 +28,10 @@ https://wikipedia.trustedurl.org
 
 https://fakewikipedia.trustedurl.org
 
+Sample one liner bash command to check whether a URL is in the authentic whitelist, just replace **http://gentoo.org** with the URL you want to check
+
+    bash -c 'u=$1; case "$u" in http://*|https://*) ;; *) u=https://$u;; esac; s=${u%%://*}://; r=${u#*://}; hp=${r%%[/?#]*}; h=${hp%%:*}; o=${h,,}; o=${o#www.}; t=$s$h.trustedurl.org${r#"$h"}; if ! f=$(curl -sL -o /dev/null -w "%{url_effective}" "$t"); then echo "CURL FAILED URL NOT IN WHITELIST"; exit 1; fi; f=${f#*://}; f=${f%%[/?#]*}; f=${f%%:*}; f=${f,,}; f=${f#www.}; [ "$o" = "$f" ] && echo URL IS WHITELISTED AUTHENTIC || echo URL DOES NOT MATCH' _  'http://www.gentoo.org'
+
 If you'd like to suggest or submit a domain to the whitelist, just email integritysoft@protonmail.com, send a PM or submit a pull request.
 
 ## Domains currently supported
@@ -51,6 +55,8 @@ https://electrum.org.trustedurl.org -> https://electrum.org/
 https://freenet.org.trustedurl.org -> https://freenet.org
 
 https://fsf.org.trustedurl.org -> https://www.fsf.org/
+
+https://gentoo.org.trustedurl.org -> https://www.gentoo.org/
 
 https://getmonero.org.trustedurl.org -> https://www.getmonero.org
 
